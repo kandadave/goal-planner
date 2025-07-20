@@ -1,0 +1,103 @@
+{
+  "goals": [
+    {
+      "id": "11",
+      "name": "New Gaming PC",
+      "targetAmount": 2500,
+      "savedAmount": 750,
+      "category": "Electronics",
+      "deadline": "2025-05-01",
+      "createdAt": "2024-07-15"
+    },
+    {
+      "id": "12",
+      "name": "Dream Vacation - Europe",
+      "targetAmount": 8000,
+      "savedAmount": 1500,
+      "category": "Travel",
+      "deadline": "2026-09-30",
+      "createdAt": "2024-03-20"
+    },
+    {
+      "id": "13",
+      "name": "Emergency Savings Boost",
+      "targetAmount": 3000,
+      "savedAmount": 2800,
+      "category": "Emergency",
+      "deadline": "2024-10-31",
+      "createdAt": "2024-06-05"
+    },
+    {
+      "id": "14",
+      "name": "Car Down Payment",
+      "targetAmount": 15000,
+      "savedAmount": 4000,
+      "category": "Vehicle",
+      "deadline": "2027-01-15",
+      "createdAt": "2024-01-01"
+    },
+    {
+      "id": "15",
+      "name": "Home Appliance Upgrade",
+      "targetAmount": 1200,
+      "savedAmount": 1200,
+      "category": "Home",
+      "deadline": "2024-07-20",
+      "createdAt": "2024-05-10"
+    },
+    {
+      "id": "16",
+      "name": "Photography Gear",
+      "targetAmount": 1800,
+      "savedAmount": 500,
+      "category": "Hobby",
+      "deadline": "2025-08-01",
+      "createdAt": "2024-04-25"
+    },
+    {
+      "id": "17",
+      "name": "Student Loan Repayment",
+      "targetAmount": 10000,
+      "savedAmount": 2000,
+      "category": "Debt",
+      "deadline": "2028-12-31",
+      "createdAt": "2024-02-14"
+    },
+    {
+      "id": "18",
+      "name": "New Watch",
+      "targetAmount": 400,
+      "savedAmount": 0,
+      "category": "Shopping",
+      "deadline": "2025-02-28",
+      "createdAt": "2024-07-18"
+    },
+    {
+      "id": "19",
+      "name": "Investment Portfolio",
+      "targetAmount": 20000,
+      "savedAmount": 3000,
+      "category": "Investment",
+      "deadline": "2030-01-01",
+      "createdAt": "2023-11-01"
+    },
+    {
+      "id": "20",
+      "name": "Concert Tickets",
+      "targetAmount": 300,
+      "savedAmount": 150,
+      "category": "Entertainment",
+      "deadline": "2024-09-01",
+      "createdAt": "2024-07-05"
+    },
+    {
+      "id": "1753027561281",
+      "savedAmount": 1,
+      "createdAt": "2025-07-20",
+      "name": "Another test",
+      "targetAmount": 1000,
+      "category": "sijui",
+      "deadline": "2025-08-01"
+    }
+  ]
+}
