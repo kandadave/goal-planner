@@ -1,3 +1,4 @@
+````markdown
 # The Smart Goal Planner
 
 A dynamic, interactive financial goal management application built with React, HTML, CSS, and featuring a mock backend with JSON Server.
@@ -10,8 +11,7 @@ This is a comprehensive, yet user-friendly, financial goal management applicatio
 
 ### Screenshot
 
-![app screenshot](src/smartgoalplanner.png)
-
+![App Screenshot](src/smartgoalplanner.png)
 
 ## Features
 
@@ -23,15 +23,15 @@ This is a comprehensive, yet user-friendly, financial goal management applicatio
 
 * **Comprehensive Overview:** Get a birds-eye view of your financial health:
 
-  * Total number of goals.
+    * Total number of goals.
 
-  * Aggregate savings across all goals.
+    * Aggregate savings across all goals.
 
-  * Count of completed goals.
+    * Count of completed goals.
 
-  * Time remaining until each goal's deadline.
+    * Time remaining until each goal's deadline.
 
-  * **Smart Alerts:** Get warnings for goals nearing their deadline (within 30 days) and clear indicators for overdue goals.
+    * **Smart Alerts:** Get warnings for goals nearing their deadline (within 30 days) and clear indicators for overdue goals.
 
 * **Local Persistence:** All your goal data is securely stored and managed via a `db.json` file, simulated with `json-server` for full CRUD (Create, Read, Update, Delete) functionality.
 
@@ -39,15 +39,15 @@ This is a comprehensive, yet user-friendly, financial goal management applicatio
 
 ### Requirements
 
-1. A computer with Node.js installed (for npm commands).
+1.  A computer with Node.js installed (for npm commands).
 
-2. Access to the internet (for initial package downloads).
+2.  Access to the internet (for initial package downloads).
 
-3. A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
+3.  A modern web browser (e.g., Chrome, Firefox, Edge, Safari).
 
-4. A code editor (VS Code recommended).
+4.  A code editor (VS Code recommended).
 
-5. Terminal/Command Line.
+5.  Terminal/Command Line.
 
 ### Local Development
 
@@ -57,26 +57,23 @@ If you want to run the project locally, follow these steps:
 
 * **Clone the repository:**
 
-  ```bash
-  git clone [https://github.com/kandadave/goal-planner](https://github.com/kandadave/goal-planner)
-  cd goal-planner
-  
-````
+    ```bash
+    git clone [https://github.com/kandadave/goal-planner](https://github.com/kandadave/goal-planner)
+    cd goal-planner
+    ```
 
-  * **Install Frontend Dependencies:**
+* **Install Frontend Dependencies:**
     Navigate to the project root directory in your terminal and install the React app's dependencies:
 
     ```bash
     npm install
-
     ```
 
-  * **Install `json-server` (Globally):**
+* **Install `json-server` (Globally):**
     If you haven't already, install `json-server` globally. This allows you to run it from any directory.
 
     ```bash
     npm install -g json-server
-
     ```
 
 #### Setup `db.json`
@@ -178,7 +175,7 @@ Ensure you have a `db.json` file in the **root directory** of your `goal-planner
     }
   ]
 }
-```
+````
 
 ### Running the Application
 
@@ -187,7 +184,6 @@ Ensure you have a `db.json` file in the **root directory** of your `goal-planner
 
     ```bash
     json-server --watch db.json --port 3000
-
     ```
 
     You should see output indicating that `json-server` is serving resources, including `http://localhost:3000/goals`.
@@ -197,7 +193,6 @@ Ensure you have a `db.json` file in the **root directory** of your `goal-planner
 
     ```bash
     npm start
-
     ```
 
     This will open the Smart Goal Planner in your default web browser at `http://localhost:3000`.
@@ -205,8 +200,11 @@ Ensure you have a `db.json` file in the **root directory** of your `goal-planner
 ## Technologies Used
 
   * **React.js (ES6+):** For building the interactive user interface with a component-based architecture and managing application state using Hooks.
+
   * **HTML5:** For structuring the web content.
+
   * **CSS3:** For styling and creating the appealing, responsive layout.
+
   * **JSON Server:** A lightweight server used to create a fake REST API quickly, providing persistence for financial goals to the `db.json` file.
 
 ## Support and Contact Details
@@ -225,3 +223,5 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+```
+```
