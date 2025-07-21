@@ -51,7 +51,7 @@ This is a comprehensive, yet user-friendly, financial goal management applicatio
 
 ### Live Site
 Open the live site [here](glowing-dusk-1e375c.netlify.app/)
-Interact with the site to explore its features.
+You can interact with the site to explore its features.
 
 ### Local Development
 
