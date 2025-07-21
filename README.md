@@ -49,6 +49,9 @@ This is a comprehensive, yet user-friendly, financial goal management applicatio
 
 5. Terminal/Command Line.
 
+### Live Site
+Open the live site [here](
+
 ### Local Development
 
 If you want to run the project locally, follow these steps:
@@ -60,8 +63,8 @@ If you want to run the project locally, follow these steps:
   ```bash
   git clone [https://github.com/kandadave/goal-planner](https://github.com/kandadave/goal-planner)
   cd goal-planner
+  ```
   
-````
 
   * **Install Frontend Dependencies:**
     Navigate to the project root directory in your terminal and install the React app's dependencies:
