@@ -50,7 +50,8 @@ This is a comprehensive, yet user-friendly, financial goal management applicatio
 5. Terminal/Command Line.
 
 ### Live Site
-Open the live site [here](
+Open the live site [here](glowing-dusk-1e375c.netlify.app/)
+Interact with the site to explore its features.
 
 ### Local Development
 
