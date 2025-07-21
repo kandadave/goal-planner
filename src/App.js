@@ -5,7 +5,7 @@ import AddGoalForm from './AddGoalForm';
 import DepositForm from './DepositForm';
 import './App.css'; 
 
-const API_URL = 'http://localhost:3000/goals';
+const API_URL = 'https://json-server-smart-goal-planner.onrender.com/goals';
 
 function App() {
   const [goals, setGoals] = useState([]);
