@@ -33,7 +33,7 @@ This is a comprehensive, yet user-friendly, financial goal management applicatio
 
   * **Smart Alerts:** Get warnings for goals nearing their deadline (within 30 days) and clear indicators for overdue goals.
 
-* **Local Persistence:** All your goal data is securely stored and managed via a `db.json` file, simulated with `json-server` for full CRUD (Create, Read, Update, Delete) functionality.
+* **Persistence:** All your goal data is securely stored and managed via a RESTful API. For the live site, this backend is hosted on Render.com. For local development, a `db.json` file simulated with `json-server` is used.
 
 ## How to Use
 
